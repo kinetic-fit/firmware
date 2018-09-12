@@ -27,9 +27,9 @@
 		}
 	},
 	"Kinetic-MN:inRide-HR:10-SR:0" : {
-		"latest": "04",
+		"latest": "06",
 		"versions": {
-			"04": {
+			"06": {
 				"notes": "Improved Power Curve.",
 				"url": "https://github.com/kinetic-fit/firmware/raw/master/inRide/inRide-097.zip"
 			}
