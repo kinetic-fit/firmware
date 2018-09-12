@@ -4,7 +4,7 @@
 		"versions": {
 			"1.0": {
 				"notes": "Improved Power Curve.",
-				"url": "https://"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-app-10.zip"
 			}
 		}
 	}
