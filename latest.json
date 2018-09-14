@@ -1,4 +1,13 @@
 {
+	"Alatech-MN:42-HR:0-SR:4.0" : {
+		"latest": "1.1",
+		"versions": {
+			"1.1": {
+				"notes": "Improved Power Curve.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-11.zip"
+			}
+		}
+	},
 	"Alatech-MN:2-HR:1-SR:4.0" : {
 		"latest": "1.1",
 		"versions": {
