@@ -27,20 +27,20 @@
 		}
 	},
 	"Alatech-MN:3-HR:1-SR:4.0" : {
-		"latest": "1.1",
+		"latest": "1.2",
 		"versions": {
 			"1.1": {
 				"notes": "Improved Power Curve.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-09.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-10.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.0" : {
-		"latest": "1.1",
+		"latest": "1.2",
 		"versions": {
 			"1.1": {
 				"notes": "Improved Power Curve.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-09.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-10.zip"
 			}
 		}
 	},
