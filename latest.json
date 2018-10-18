@@ -1,46 +1,46 @@
 {
 	"Alatech-MN:42-HR:0-SR:4.0" : {
-		"latest": "1.1",
+		"latest": "1.2",
 		"versions": {
-			"1.1": {
+			"1.2": {
 				"notes": "Improved Power Curve.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-11.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-12.zip"
 			}
 		}
 	},
 	"Alatech-MN:2-HR:1-SR:4.0" : {
-		"latest": "1.1",
+		"latest": "1.2",
 		"versions": {
-			"1.1": {
+			"1.2": {
 				"notes": "Improved Power Curve.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-11.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-12.zip"
 			}
 		}
 	},
 	"Kinetic-MN:2-HR:1-SR:4.0" : {
-		"latest": "1.1",
+		"latest": "1.2",
 		"versions": {
-			"1.1": {
+			"1.2": {
 				"notes": "Improved Power Curve.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-11.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-12.zip"
 			}
 		}
 	},
 	"Alatech-MN:3-HR:1-SR:4.0" : {
 		"latest": "1.2",
 		"versions": {
-			"1.1": {
+			"1.2": {
 				"notes": "Improved Power Curve.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-10.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-12.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.0" : {
 		"latest": "1.2",
 		"versions": {
-			"1.1": {
+			"1.2": {
 				"notes": "Improved Power Curve.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-10.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-12.zip"
 			}
 		}
 	},
