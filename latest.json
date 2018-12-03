@@ -26,6 +26,15 @@
 			}
 		}
 	},
+	"Kinetic-MN:2-HR:1-SR:1.12" : {
+		"latest": "1.3",
+		"versions": {
+			"1.3": {
+				"notes": "Faster target convergence.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-13.zip"
+			}
+		}
+	},
 	"Alatech-MN:3-HR:1-SR:4.0" : {
 		"latest": "1.2",
 		"versions": {
