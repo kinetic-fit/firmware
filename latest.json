@@ -27,20 +27,20 @@
 		}
 	},
 	"Alatech-MN:3-HR:1-SR:4.0" : {
-		"latest": "1.13",
+		"latest": "1.17",
 		"versions": {
-			"1.13": {
+			"1.17": {
 				"notes": "Improved reponse time. Updated Power Curve. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-113.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-117.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.0" : {
-		"latest": "1.13",
+		"latest": "1.17",
 		"versions": {
-			"1.13": {
+			"1.17": {
 				"notes": "Improved reponse time. Updated Power Curve. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-113.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-117.zip"
 			}
 		}
 	},
