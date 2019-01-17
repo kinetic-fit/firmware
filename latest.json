@@ -1,46 +1,46 @@
 {
 	"Alatech-MN:42-HR:0-SR:4.0" : {
-		"latest": "1.13",
+		"latest": "1.25",
 		"versions": {
-			"1.13": {
-				"notes": "Improved reponse time. Updated Power Curve. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-113.zip"
+			"1.25": {
+				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-125.zip"
 			}
 		}
 	},
 	"Alatech-MN:2-HR:1-SR:4.0" : {
-		"latest": "1.13",
+		"latest": "1.25",
 		"versions": {
-			"1.13": {
-				"notes": "Improved reponse time. Updated Power Curve. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-113.zip"
+			"1.25": {
+				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-125.zip"
 			}
 		}
 	},
 	"Kinetic-MN:2-HR:1-SR:4.0" : {
-		"latest": "1.13",
+		"latest": "1.25",
 		"versions": {
-			"1.13": {
-				"notes": "Improved reponse time. Updated Power Curve. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-113.zip"
+			"1.25": {
+				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-125.zip"
 			}
 		}
 	},
 	"Alatech-MN:3-HR:1-SR:4.0" : {
-		"latest": "1.22",
+		"latest": "1.25",
 		"versions": {
-			"1.22": {
-				"notes": "Improved reponse time. Updated Power Curve. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-122.zip"
+			"1.25": {
+				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Improved power curve and calibration offsets. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-125.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.0" : {
-		"latest": "1.22",
+		"latest": "1.25",
 		"versions": {
-			"1.22": {
-				"notes": "Improved reponse time. Updated Power Curve. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-122.zip"
+			"1.25": {
+				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Improved power curve and calibration offsets. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-125.zip"
 			}
 		}
 	},
