@@ -1,94 +1,94 @@
 {
 	"Alatech-MN:42-HR:0-SR:4.0" : {
-		"latest": "1.26",
+		"latest": "1.30",
 		"versions": {
-			"1.26": {
-				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-126.zip"
+			"1.30": {
+				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-130.zip"
 			}
 		}
 	},
 	"Alatech-MN:2-HR:1-SR:4.0" : {
-		"latest": "1.26",
+		"latest": "1.30",
 		"versions": {
-			"1.26": {
-				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-126.zip"
+			"1.30": {
+				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-130.zip"
 			}
 		}
 	},
 	"Kinetic-MN:2-HR:1-SR:4.0" : {
-		"latest": "1.26",
+		"latest": "1.30",
 		"versions": {
-			"1.26": {
-				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-126.zip"
+			"1.30": {
+				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-130.zip"
 			}
 		}
 	},
 
 	"Alatech-MN:42-HR:0-SR:4.1" : {
-		"latest": "1.26",
+		"latest": "1.30",
 		"versions": {
-			"1.26": {
-				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-126.zip"
+			"1.30": {
+				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-130.zip"
 			}
 		}
 	},
 	"Alatech-MN:2-HR:1-SR:4.1" : {
-		"latest": "1.26",
+		"latest": "1.30",
 		"versions": {
-			"1.26": {
-				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-126.zip"
+			"1.30": {
+				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-130.zip"
 			}
 		}
 	},
 	"Kinetic-MN:2-HR:1-SR:4.1" : {
-		"latest": "1.26",
+		"latest": "1.30",
 		"versions": {
-			"1.26": {
-				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-126.zip"
+			"1.30": {
+				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-130.zip"
 			}
 		}
 	},
 
 	"Alatech-MN:3-HR:1-SR:4.0" : {
-		"latest": "1.26",
+		"latest": "1.30",
 		"versions": {
-			"1.26": {
-				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Improved power curve and calibration offsets. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-126.zip"
+			"1.30": {
+				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-130.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.0" : {
-		"latest": "1.26",
+		"latest": "1.30",
 		"versions": {
-			"1.26": {
-				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Improved power curve and calibration offsets. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-126.zip"
+			"1.30": {
+				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-130.zip"
 			}
 		}
 	},
 
 	"Alatech-MN:3-HR:1-SR:4.1" : {
-		"latest": "1.26",
+		"latest": "1.30",
 		"versions": {
-			"1.26": {
-				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Improved power curve and calibration offsets. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-126.zip"
+			"1.30": {
+				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-130.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.1" : {
-		"latest": "1.26",
+		"latest": "1.30",
 		"versions": {
-			"1.26": {
-				"notes": "YOU MUST REBOOT YOUR PHONE AFTER THIS UPDATE. Simplified pairing process. Improved power curve and calibration offsets. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-126.zip"
+			"1.30": {
+				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-130.zip"
 			}
 		}
 	},
