@@ -56,39 +56,39 @@
 	},
 
 	"Alatech-MN:3-HR:1-SR:4.0" : {
-		"latest": "1.30",
+		"latest": "1.42",
 		"versions": {
-			"1.30": {
-				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-130.zip"
+			"1.42": {
+				"notes": "Improved Power Curve and Calibration Process. Fan turns off when not in use. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-142.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.0" : {
-		"latest": "1.30",
+		"latest": "1.42",
 		"versions": {
-			"1.30": {
-				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-130.zip"
+			"1.42": {
+				"notes": "Improved Power Curve and Calibration Process. Fan turns off when not in use. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-142.zip"
 			}
 		}
 	},
 
 	"Alatech-MN:3-HR:1-SR:4.1" : {
-		"latest": "1.30",
+		"latest": "1.42",
 		"versions": {
-			"1.30": {
-				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-130.zip"
+			"1.42": {
+				"notes": "Improved Power Curve and Calibration Process. Fan turns off when not in use. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-142.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.1" : {
-		"latest": "1.30",
+		"latest": "1.42",
 		"versions": {
-			"1.30": {
-				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-130.zip"
+			"1.42": {
+				"notes": "Improved Power Curve and Calibration Process. Fan turns off when not in use. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-142.zip"
 			}
 		}
 	},
