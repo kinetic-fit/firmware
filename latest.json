@@ -56,39 +56,39 @@
 	},
 
 	"Alatech-MN:3-HR:1-SR:4.0" : {
-		"latest": "1.42",
+		"latest": "2.0",
 		"versions": {
-			"1.42": {
-				"notes": "Improved Power Curve and Calibration Process. Fan turns off when not in use. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-142.zip"
+			"2.0": {
+				"notes": "Calibration is saved between power cycles. ANT Legacy Profiles. Improved Power Curve.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-200.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.0" : {
-		"latest": "1.42",
+		"latest": "2.0",
 		"versions": {
-			"1.42": {
-				"notes": "Improved Power Curve and Calibration Process. Fan turns off when not in use. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-142.zip"
+			"2.0": {
+				"notes": "Calibration is saved between power cycles. ANT Legacy Profiles. Improved Power Curve.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-200.zip"
 			}
 		}
 	},
 
 	"Alatech-MN:3-HR:1-SR:4.1" : {
-		"latest": "1.42",
+		"latest": "2.0",
 		"versions": {
-			"1.42": {
-				"notes": "Improved Power Curve and Calibration Process. Fan turns off when not in use. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-142.zip"
+			"2.0": {
+				"notes": "Calibration is saved between power cycles. ANT Legacy Profiles. Improved Power Curve.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-200.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.1" : {
-		"latest": "1.42",
+		"latest": "2.0",
 		"versions": {
-			"1.42": {
-				"notes": "Improved Power Curve and Calibration Process. Fan turns off when not in use. Cadence is disabled in this version while we rework it as it was not accurate.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-142.zip"
+			"2.0": {
+				"notes": "Calibration is saved between power cycles. ANT Legacy Profiles. Improved Power Curve.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-200.zip"
 			}
 		}
 	},
