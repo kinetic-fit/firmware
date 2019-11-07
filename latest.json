@@ -56,39 +56,38 @@
 	},
 
 	"Alatech-MN:3-HR:1-SR:4.0" : {
-		"latest": "2.0",
+		"latest": "2.25",
 		"versions": {
-			"2.0": {
-				"notes": "Calibration is saved between power cycles. ANT Legacy Profiles. Improved Power Curve.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-200.zip"
+			"2.25": {
+				"notes": "Please update this app before upgrading the firmware. New spin down calibration process. Make sure to recalibrate after your initial warmup and follow our guides for R1 calibration which can be found online. Sprint accuracy improvements. Improved Power Curves. Improved responsiveness.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-225.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.0" : {
-		"latest": "2.0",
+		"latest": "2.25",
 		"versions": {
-			"2.0": {
-				"notes": "Calibration is saved between power cycles. ANT Legacy Profiles. Improved Power Curve.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-200.zip"
+			"2.25": {
+				"notes": "Please update this app before upgrading the firmware. New spin down calibration process. Make sure to recalibrate after your initial warmup and follow our guides for R1 calibration which can be found online. Sprint accuracy improvements. Improved Power Curves. Improved responsiveness.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-225.zip"
 			}
 		}
 	},
-
 	"Alatech-MN:3-HR:1-SR:4.1" : {
-		"latest": "2.0",
+		"latest": "2.25",
 		"versions": {
-			"2.0": {
-				"notes": "Calibration is saved between power cycles. ANT Legacy Profiles. Improved Power Curve.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-200.zip"
+			"2.25": {
+				"notes": "Please update this app before upgrading the firmware. New spin down calibration process. Make sure to recalibrate after your initial warmup and follow our guides for R1 calibration which can be found online. Sprint accuracy improvements. Improved Power Curves. Improved responsiveness.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-225.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.1" : {
-		"latest": "2.0",
+		"latest": "2.25",
 		"versions": {
-			"2.0": {
-				"notes": "Calibration is saved between power cycles. ANT Legacy Profiles. Improved Power Curve.",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-200.zip"
+			"2.25": {
+				"notes": "Please update this app before upgrading the firmware. New spin down calibration process. Make sure to recalibrate after your initial warmup and follow our guides for R1 calibration which can be found online. Sprint accuracy improvements. Improved Power Curves. Improved responsiveness.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-225.zip"
 			}
 		}
 	},
