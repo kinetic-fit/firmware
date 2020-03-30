@@ -56,38 +56,38 @@
 	},
 
 	"Alatech-MN:3-HR:1-SR:4.0" : {
-		"latest": "2.40",
+		"latest": "2.52",
 		"versions": {
-			"2.40": {
+			"2.52": {
 				"notes": "Virtual Cadence is back!",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-240.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-252.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.0" : {
-		"latest": "2.40",
+		"latest": "2.52",
 		"versions": {
-			"2.40": {
+			"2.52": {
 				"notes": "Virtual Cadence is back!",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-240.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-252.zip"
 			}
 		}
 	},
 	"Alatech-MN:3-HR:1-SR:4.1" : {
-		"latest": "2.40",
+		"latest": "2.52",
 		"versions": {
-			"2.40": {
+			"2.52": {
 				"notes": "Virtual Cadence is back!",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-240.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-252.zip"
 			}
 		}
 	},
 	"Kinetic-MN:3-HR:1-SR:4.1" : {
-		"latest": "2.40",
+		"latest": "2.52",
 		"versions": {
-			"2.40": {
+			"2.52": {
 				"notes": "Virtual Cadence is back!",
-				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-240.zip"
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/r1/r1-252.zip"
 			}
 		}
 	},
