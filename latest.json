@@ -54,6 +54,15 @@
 			}
 		}
 	},
+	"Kinetic-MN:2-HR:1-SR:4.4" : {
+		"latest": "1.30",
+		"versions": {
+			"1.30": {
+				"notes": "Calibration improvements. Sim mode improvements at low speeds. Cadence is disabled in this version while we rework it as it was not accurate.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/control/control-130.zip"
+			}
+		}
+	},
 
 	"Alatech-MN:3-HR:1-SR:4.0" : {
 		"latest": "2.40",
