@@ -1,4 +1,13 @@
 {
+	"Kinetic-MN:Smart Control-HR:0-SR:0-BLE:128" : {
+		"latest": "1265",
+		"versions": {
+			"1265": {
+				"notes": "Continued improvements to the Power Calculations.",
+				"url": "https://github.com/kinetic-fit/firmware/raw/master/smart-control/sc-1265-128.zip"
+			}
+		}
+	},
 	"Alatech-MN:42-HR:0-SR:4.0" : {
 		"latest": "1.30",
 		"versions": {
